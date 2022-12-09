@@ -30,7 +30,7 @@ window.onload = function () {
 //  Helpers
 // ---------------------------------------------------
 window.onresize = function () {
-	project.clear();
+	// project.clear();
 	// D = Math.max(paper.view.getSize().width, paper.view.getSize().height);
 	// Draw the BG
 	var background = new Path.Rectangle(view.bounds);
