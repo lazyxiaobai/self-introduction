@@ -18,6 +18,9 @@
 
 } */
 
+.blog:hover .mecarbottm-value{
+  color: #9FD8EF;
+}
 .content-li.li1>.li1-box {
   position: relative;
   flex: 0 0 32%;
