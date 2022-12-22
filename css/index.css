@@ -261,7 +261,7 @@ svg {
 }
 
 .li5-box .left {
-  right: 25%;
+  right: 10%;
   top: calc(50% - 20px);
  
 }
@@ -286,7 +286,7 @@ svg {
   display: inline-block;
   height: 300px;
   box-sizing: border-box;
-  width: 700px;
+  width: 850px;
   text-align: center;
   padding: 50px 20px;
 }
